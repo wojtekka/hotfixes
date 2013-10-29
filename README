@@ -1,1 +1,3 @@
 Simple Linux kernel modules fixing some vulnerabilities, without the need to upgrade or patch kernel.
+
+Note that these modules are applicable to really ancient kernel version. They are not of much use anymore. But hey, I disabled ptrace() long before Ubuntu started doing it.
